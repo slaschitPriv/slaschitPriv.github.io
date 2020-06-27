@@ -6,3 +6,7 @@ IJeffrey "The Dude" Lebowski, a middle-aged bachelor with a penchant for cannabi
 * weed
 * bowling
 * bachelor
+
+The Dude said
+
+> Obviously you're not a golfer.
