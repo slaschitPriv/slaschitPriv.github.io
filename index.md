@@ -10,3 +10,5 @@ IJeffrey "The Dude" Lebowski, a middle-aged bachelor with a penchant for cannabi
 The Dude said
 
 > Obviously you're not a golfer.
+
+<img src="https://upload.wikimedia.org/wikipedia/en/3/35/Biglebowskiposter.jpg"/>
